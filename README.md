@@ -6,10 +6,10 @@ Time spent: 2.5 to 3 hours
 
 Completed user stories:
 
-[x] Required: User can change the specified tip percentage
-[x] Optional: User can see the total bill amount split among multiple people
-[x] Optional: Custom font, colors, app icon, and launch image
-[x] Optional: Views animate based on active and editing states
+- [x] Required: User can change the specified tip percentage
+- [x] Optional: User can see the total bill amount split among multiple people
+- [x] Optional: Custom font, colors, app icon, and launch image
+- [x] Optional: Views animate based on active and editing states
 
 Notes:
 
