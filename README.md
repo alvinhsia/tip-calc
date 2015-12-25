@@ -13,11 +13,11 @@ Completed user stories:
 
 Notes:
 
-This was fun! I couldn't figure out how to center the views for an iPhone 6.
+This was fun!
 
 Walkthrough of user stories:
 
-
+![tip-calc gif](https://cloud.githubusercontent.com/assets/1860265/12004417/7acbff0c-ab0c-11e5-8538-d9f68bf2477e.gif)
 
 
 
